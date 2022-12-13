@@ -1,0 +1,38 @@
+.header-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.slider-bg{
+    background: #f7cb9c;
+    padding: 0 20px;
+}
+
+.h-style{
+    font-size: 30px;
+    font-weight: 700;
+    color: #05386b;
+}
+
+.p-style{
+    font-size: 18px;
+    font-weight: 500;
+    color: #05386b;
+}
+
+.i-m {
+    width: 100%;
+    height: 200px;
+}
+
+.b-t{
+    width: 100%;
+}
+
+.s-style{
+    font-size: 16px;
+    font-weight: 500;
+    color: crimson;
+    text-transform: capitalize;
+}
